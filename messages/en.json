@@ -1,0 +1,13 @@
+{
+  "HomePage": {
+    "title": "Crypto",
+    "label": "Enter Symbol Name and Search",
+    "inputPlaceholder": "Symbol Name",
+    "buttonText": "Search",
+    "alert": "Please enter a valid symbol name."
+  },
+  "NotFound": {
+    "title": "Not Found",
+    "message": "Symbol not found!"
+  }
+}
